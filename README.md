@@ -3,7 +3,7 @@
 ## Um pequeno projeto de curso online criado com Vue.js.
 
 #### Para usar a API use "json-server --watch api.json" em seu terminal
-```
+
 
 ## Project setup
 ```
